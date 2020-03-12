@@ -2,4 +2,3 @@
 
 ** BonfaceKilz https://github.com/BonfaceKilz/emacs.d/issues/1
 
-** Lucas https://lucascherkewski.com/ not yet confirm
