@@ -2,3 +2,4 @@
 
 ** BonfaceKilz https://github.com/BonfaceKilz/emacs.d/issues/1
 
+** Feynman https://github.com/jiahao42/blog/issues/1
