@@ -4,3 +4,5 @@
 
 ** Feynman https://github.com/jiahao42/blog/issues/1
 > 而Relearn才是你真正理解某个概念的本质的时候，我觉得这也是最容易出现创新的时候。
+
+** Yes, c++ do cool stuff https://marinecfd.xyz/
